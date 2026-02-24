@@ -5,16 +5,13 @@
   <channel>
     <title>My App Updates</title>
 
-    <!-- 🚨 MINIMUM REQUIRED VERSION -->
+<!-- ✅ LATEST VERSION -->
     <item>
-      <title>Version 2.5.0</title>
-      <description>This update is required to continue using the app.
+      <title>Version 3.0.0</title>
+      <description>New features and improvements.
       </description>
-      <sparkle:tags>
-        <sparkle:criticalUpdate />
-      </sparkle:tags>
       <enclosure
-        sparkle:version="1.0.1"
+        sparkle:version="3.0.0"
         sparkle:os="android"
         url="https://play.google.com/store/apps/details?id=com.myapp"/>
     </item>
