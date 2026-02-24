@@ -6,7 +6,7 @@
     <title>My App Updates</title>
 
     <!-- 🚨 MINIMUM REQUIRED VERSION -->
-    <item>
+    <!-- <item>
       <title>Version 2.5.0</title>
       <description>
         This update is required to continue using the app.
@@ -18,7 +18,7 @@
         sparkle:version="2.5.0"
         sparkle:os="android"
         url="https://play.google.com/store/apps/details?id=com.myapp"/>
-    </item>
+    </item> -->
 
     <!-- ✅ LATEST VERSION -->
     <item>
