@@ -8,8 +8,17 @@
      <!-- 🚨 MINIMUM REQUIRED VERSION -->
 
 
-<!-- ✅ LATEST VERSION -->
 
+<!-- ✅ LATEST VERSION -->
+    <item>
+      <title>Version 1.0.1</title>
+      <description>New features and improvements.
+      </description>
+      <enclosure
+        sparkle:version="1.0.1"
+        sparkle:os="android"
+        url="https://play.google.com/store/apps/details?id=com.odox.crm"/>
+    </item>
 
   </channel>
 </rss>
