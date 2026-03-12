@@ -20,5 +20,17 @@
         url="https://play.google.com/store/apps/details?id=com.odox.crm"/>
     </item>
 
+    <!-- ✅ LATEST VERSION -->
+    <item>
+      <title>Version 1.0.1</title>
+      <description>New features and improvements.</description>
+
+      <enclosure
+        sparkle:version="1.0.1"
+        sparkle:shortVersionString="1.0.1"
+        sparkle:os="ios"
+        url="https://apps.apple.com/us/app/odox-crm/id6759554144"/>
+    </item>
+
   </channel>
 </rss>
