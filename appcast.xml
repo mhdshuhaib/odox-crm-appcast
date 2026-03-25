@@ -22,7 +22,7 @@
 
                      <!-- 🔴 IOS CRITICAL UPDATE -->
     <item>
-      <title>Version 1.0.2</title>
+      <title>Version 1.0.3</title>
       <description>Search option in - CR and ETA.
       </description>
 
@@ -31,7 +31,7 @@
       </sparkle:tags>
 
       <enclosure
-        sparkle:version="1.0.2"
+        sparkle:version="1.0.3"
         sparkle:os="ios"
         url="https://apps.apple.com/us/app/odox-crm/id6759554144" />
     </item>
