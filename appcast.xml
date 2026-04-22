@@ -7,23 +7,23 @@
 
     <!-- 🔴 ANDROID CRITICAL UPDATE -->
     <item>
-      <title>Version 1.0.3</title>
-      <description>CR Approve and Helpdesk Listing.</description>
+      <title>Version 1.0.6</title>
+      <description>View and manage leads</description>
 
       <sparkle:tags>
         <sparkle:criticalUpdate />
       </sparkle:tags>
 
       <enclosure
-        sparkle:version="1.0.3"
+        sparkle:version="1.0.6"
         sparkle:os="android"
         url="https://play.google.com/store/apps/details?id=com.odox.crm" />
     </item>
 
                      <!-- 🔴 IOS CRITICAL UPDATE -->
     <item>
-      <title>Version 1.0.3</title>
-      <description>CR Approve and Helpdesk Listing.
+      <title>Version 1.0.6</title>
+      <description>View and manage leads
       </description>
 
       <sparkle:tags>
@@ -31,7 +31,7 @@
       </sparkle:tags>
 
       <enclosure
-        sparkle:version="1.0.3"
+        sparkle:version="1.0.6"
         sparkle:os="ios"
         url="https://apps.apple.com/us/app/odox-crm/id6759554144" />
     </item>
