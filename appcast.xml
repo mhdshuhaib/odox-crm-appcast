@@ -22,8 +22,8 @@
 
                      <!-- 🔴 IOS CRITICAL UPDATE -->
     <item>
-      <title>Version 1.0.6</title>
-      <description>View and manage leads
+      <title>Version 1.0.7</title>
+      <description>Time off request and approve
       </description>
 
       <sparkle:tags>
@@ -31,7 +31,7 @@
       </sparkle:tags>
 
       <enclosure
-        sparkle:version="1.0.6"
+        sparkle:version="1.0.7"
         sparkle:os="ios"
         url="https://apps.apple.com/us/app/odox-crm/id6759554144" />
     </item>
