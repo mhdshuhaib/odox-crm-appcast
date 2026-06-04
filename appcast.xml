@@ -22,7 +22,7 @@
 
                      <!-- 🔴 IOS CRITICAL UPDATE -->
     <item>
-      <title>Version 1.0.7</title>
+      <title>Version 1.0.8</title>
       <description>Time off request and approve
       </description>
 
@@ -31,7 +31,7 @@
       </sparkle:tags>
 
       <enclosure
-        sparkle:version="1.0.7"
+        sparkle:version="1.0.8"
         sparkle:os="ios"
         url="https://apps.apple.com/us/app/odox-crm/id6759554144" />
     </item>
