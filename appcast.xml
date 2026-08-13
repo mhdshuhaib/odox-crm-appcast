@@ -7,23 +7,23 @@
 
     <!-- 🔴 ANDROID CRITICAL UPDATE -->
     <item>
-      <title>Version 1.0.11</title>
-      <description>Sales dashboard added</description>
+      <title>Version 1.0.12</title>
+      <description>CR Request Send Back Button Added</description>
 
       <sparkle:tags>
         <sparkle:criticalUpdate />
       </sparkle:tags>
 
       <enclosure
-        sparkle:version="1.0.11"
+        sparkle:version="1.0.12"
         sparkle:os="android"
         url="https://play.google.com/store/apps/details?id=com.odox.crm" />
     </item>
 
                      <!-- 🔴 IOS CRITICAL UPDATE -->
     <item>
-      <title>Version 1.0.11</title>
-      <description>Sales dashboard added
+      <title>Version 1.0.12</title>
+      <description>CR Request Send Back Button Added
       </description>
 
       <sparkle:tags>
@@ -31,7 +31,7 @@
       </sparkle:tags>
 
       <enclosure
-        sparkle:version="1.0.11"
+        sparkle:version="1.0.12"
         sparkle:os="ios"
         url="https://apps.apple.com/us/app/odox-crm/id6759554144" />
     </item>
